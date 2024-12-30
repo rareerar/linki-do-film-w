@@ -1,2 +1,3 @@
-Linki mogą się powstarzać, ponieważ czasami wracam do jakiegoś artykułu i biorę z niego info
+Linki mogą się powtarzać, ponieważ zdarza mi się wracać do niektórych artykułów, by ponownie skorzystać z zawartych w nich informacji.
+
 :)
